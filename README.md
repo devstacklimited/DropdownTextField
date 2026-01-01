@@ -29,8 +29,8 @@ These components are designed for iOS 17+ and can be easily integrated into Swif
 2. Go to File → Add Packages...
 3. Enter the repository URL:
 
-```
-https://github.com/usamajavedswl/DropdownTextField.git
+```swift
+https://github.com/devstacklimited/DropdownTextField
 ```
 
 4. Choose the latest version and add it to your target.
