@@ -40,7 +40,13 @@ Then simply import it:
 import DropdownTextField
 ```
 
+## 🖼 Example Preview
+Here’s how it looks in the demo:
 
+<p float="left">
+  <img src="Screenshots/single_option_menu.mov" width="200" />
+  <img src="Screenshots/multi_option_menu.mov" width="200" />
+</p>
 
 ## 🧩 Usage
 
@@ -92,7 +98,6 @@ struct ExampleMultiSelect: View {
     }
 }
 ```
-
 
 
 ## ⚙️ Parameters
