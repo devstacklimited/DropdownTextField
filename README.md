@@ -43,10 +43,8 @@ import DropdownTextField
 ## 🖼 Example Preview
 Here’s how it looks in the demo:
 
-<p float="left">
-  <video src="Screenshots/single_option_menu.mp4" width="200" controls></video>
-  <video src="Screenshots/multi_option_menu.mp4" width="200" controls></video>
-</p>
+/Users/apple/Documents/DevStackWorkspace/Projects/DropdownTextField/Screenshots/single_option_menu.mp4
+/Users/apple/Documents/DevStackWorkspace/Projects/DropdownTextField/Screenshots/multi_option_menu.mp4
 
 
 ## 🧩 Usage
