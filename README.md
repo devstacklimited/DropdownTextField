@@ -43,9 +43,11 @@ import DropdownTextField
 ## 🖼 Example Preview
 Here’s how it looks in the demo:
 
-/Users/apple/Documents/DevStackWorkspace/Projects/DropdownTextField/Screenshots/single_option_menu.mp4
-/Users/apple/Documents/DevStackWorkspace/Projects/DropdownTextField/Screenshots/multi_option_menu.mp4
+### Single Option DropDownTextField
+https://github.com/user-attachments/assets/5afe0a71-1192-4214-8a67-0f3e93b5afca
 
+### Multiple Options DropDownTextField
+https://github.com/user-attachments/assets/e00ab855-d232-45bf-93d5-aa80ea1eaa05
 
 ## 🧩 Usage
 
