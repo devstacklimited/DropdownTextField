@@ -21,7 +21,6 @@ These components are designed for iOS 17+ and can be easily integrated into Swif
 ✅ Written purely in SwiftUI.
 
 
-
 ## 🚀 Installation
 
 ### Swift Package Manager
@@ -148,8 +147,6 @@ struct ExampleMultiSelect: View {
 | `noMatchText`       | String            | `"No match"`        | Shown when no match             |
 | `addNewTextFormat`  | String            | `"Add %@"`          | Format for new entry            |
 | `onTap`             | () -> Void        | –                   | Callback on tap                 |
-
-
 
 
 ## 🤝 Contributing
